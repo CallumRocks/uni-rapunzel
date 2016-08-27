@@ -29,3 +29,5 @@ The look and feel of Kubrick’s A Clockwork Orange perfectly illustrates the te
 
 #Art Deco posters
 At the time, Art Deco was a modernist movement and in the present day it encapsulates the term Retro Futuristic. In the context of our ap- plication, the perspective style of the tower, softened with the curves of the background, coupled with the choice of typeface give it a sug- gestion of Art Deco. Elements in the final design were also influenced by art deco, for example, the rockets and light beams. The colour scheme also echoes this.
+
+#Designed & Developed By Callum Rocks & Thomas Brown
